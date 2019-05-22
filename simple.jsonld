@@ -5,6 +5,8 @@
     "last_name": "familyName",
     "alias": "alternateName",
     "email": "email"
-  }
+    "Person": "http://schema.org/Person"
+  },
+  
 }
  
