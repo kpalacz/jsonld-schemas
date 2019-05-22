@@ -1,34 +1,12 @@
 {
   "@context": {
     "type": "@type",
-        "id": "@id",
-        "HTML": { "@id": "rdf:HTML" },
-
-        "@vocab": "http://schema.org/",
-        "first_name": "givenName",
-        "last_name": "familyName",
-        "alias": "alternateName",
-        "email": "email",
-        "xml": "http://www.w3.org/XML/1998/namespace",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "eli": "http://data.europa.eu/eli/ontology#",
-        "snomed": "http://purl.bioontology.org/ontology/SNOMEDCT/",
-        "bibo": "http://purl.org/ontology/bibo/",
-        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-        "skos": "http://www.w3.org/2004/02/skos/core#",
-        "void": "http://rdfs.org/ns/void#",
-        "dc": "http://purl.org/dc/elements/1.1/",
-        "dctype": "http://purl.org/dc/dcmitype/",
-        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-        "dcat": "http://www.w3.org/ns/dcat#",
-        "rdfa": "http://www.w3.org/ns/rdfa#",
-        "xsd": "http://www.w3.org/2001/XMLSchema#",
-        "schema": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "dcterms": "http://purl.org/dc/terms/",
-        "owl": "http://www.w3.org/2002/07/owl#",
-        "xsd1": "hhttp://www.w3.org/2001/XMLSchema#",
-        "3DModel": {"@id": "schema:3DModel"}
+    "id": "@id",
+    "@vocab": "http://schema.org/",
+    "first_name": "givenName",
+    "last_name": "familyName",
+    "alias": "alternateName",
+    "email": "email"
   }
 }
  
