@@ -1,5 +1,7 @@
 {
   "@context": {
+    "type": "@type",
+    "id": "@id",
     "@vocab": "http://schema.org/",
     "first_name": "givenName",
     "last_name": "familyName",
