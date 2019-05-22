@@ -4,9 +4,8 @@
     "first_name": "givenName",
     "last_name": "familyName",
     "alias": "alternateName",
-    "email": "email"
+    "email": "email",
     "Person": "http://schema.org/Person"
-  },
-  
+  }   
 }
  
