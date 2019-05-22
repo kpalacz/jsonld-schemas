@@ -8,7 +8,7 @@
         "first_name": "givenName",
         "last_name": "familyName",
         "alias": "alternateName",
-        "email": "email"
+        "email": "email",
         "xml": "http://www.w3.org/XML/1998/namespace",
         "foaf": "http://xmlns.com/foaf/0.1/",
         "eli": "http://data.europa.eu/eli/ontology#",
